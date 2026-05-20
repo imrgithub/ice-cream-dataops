@@ -1,7 +1,7 @@
 environment:
-  name: test # prod, staging, dev, test, qa
-  project: cdf-bootcamp-03-test # ex. cdf-bootcamp-01-test
-  validation-type: test # prod, staging, dev, test, qa
+  name: prod # staging, dev, test, qa
+  project: cdf-bootcamp-03-prod # ex. cdf-bootcamp-01-test
+  validation-type: prod # staging, dev, test, qa
   selected:
     - modules/bootcamp/data_foundation
     - modules/bootcamp/ice_cream_api
