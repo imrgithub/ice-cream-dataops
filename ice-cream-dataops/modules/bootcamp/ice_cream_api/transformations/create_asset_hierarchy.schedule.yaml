@@ -1,4 +1,4 @@
 #externalId: "tr_asset_{{location_name}}_{{source_name}}_asset_hierarchy"
 externalId: create_asset_hierarchy
-interval: {{ scheduleHourly }}
+interval: "0 * * * *"
 isPaused: false
